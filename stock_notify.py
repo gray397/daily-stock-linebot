@@ -4,7 +4,7 @@ import yfinance as yf
 import datetime
 import os
 
-token = os.getenv("LINE_NOTIFY_TOKEN")
+token = os.getenv("52aeda647352a80160792b1a7fd169ff")
 
 stocks = {
     "聯電": "2303.TW",

@@ -1,4 +1,4 @@
-stock_notify.py
+
 import requests
 import yfinance as yf
 import datetime
